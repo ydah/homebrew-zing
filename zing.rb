@@ -1,9 +1,9 @@
 class Zing < Formula
   desc "Modern directory jumper with a visual-first TUI"
   homepage "https://github.com/ydah/zing"
-  url "https://github.com/ydah/zing/archive/refs/tags/v0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "41a8ad3d917c70e818400d389c2adb5b8d27a2e4d4c8cd34fcef7ede8489bff6"
+  url "https://github.com/ydah/zing/archive/refs/tags/v0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "515091dd02bb497cd4c22d80b09737e3b210fe06f6a06306d1d9f9d110231dc5"
   license "MIT"
 
   depends_on "zig"
